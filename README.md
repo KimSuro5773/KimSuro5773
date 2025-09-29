@@ -17,7 +17,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&theme=default)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 <!--
 **KimSuro5773/KimSuro5773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
