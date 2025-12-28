@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=KIMSURO%20Github)
 
+<div align="center">
+  <img src="https://count.getloli.com/@:KimSuro5773?theme=3d-num&padding=5&offset=1&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
+
 ## 🧱 Tech Stack
 
 ### Language
