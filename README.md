@@ -19,10 +19,10 @@
 
 <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square&logo=Zustand&logoColor=white"/>
 <br>
-
+ 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&theme=default)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
