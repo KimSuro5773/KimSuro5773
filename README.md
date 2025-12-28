@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats-kimsuros-projects.vercel.app/api?username=KimSuro5773&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-kimsuros-projects.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&theme=dark)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 
