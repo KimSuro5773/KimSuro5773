@@ -22,9 +22,7 @@
  
 ## 📊 GitHub Stats
 
-
-![GitHub stats](https://github-readme-stats-kimsuros-projects.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default
-)
+![GitHub stats](https://github-readme-stats-kimsuros-projects.vercel.app/api?username=KimSuro5773&show_icons=true&theme=default&count_private=true)
 ![Top Langs](https://github-readme-stats-kimsuros-projects.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&theme=default)
 
 
